@@ -1,0 +1,15 @@
+html{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-image:url(E:/Images/rainbow1.jpg); 	     
+    background-position:center center;
+    background-repeat:no-repeat; 
+    background-size:cover;
+ 	}
+
+
+.button{height:300px;
+width:300px;}
